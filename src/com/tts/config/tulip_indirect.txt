@@ -1,0 +1,11 @@
+Now we're going to try drawing a tulip.
+First, to make the basis of the flower, let's draw a large triangle.
+Now, to give the tulip shape, we should round the edges of the triangle.
+Good, now to make the stem, we should add two short lines kind of off-center below the tulip.
+And now, to make a leaf, we need to draw a small triangle kind of to the lower left of the tulip.
+Next, to make the leaf shape more realistic, let's add a tear-shaped oval on top of the small triangle.
+Very good, now to create a petal on the tulip, we need to draw a curved line through the top third of the flower.
+To make a second petal, let's sketch a curved line following just outside the right edge of the tulip.
+Now to make the flower more realistic, let's outline the bottom of the tulip with a kind of curvy line.
+It's turning out great, now we need to extend the stem using a slightly curved line to the bottom of the paper.
+Lastly, let's add a second leaf extending to the right of the stem.

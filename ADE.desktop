@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ADE
+Exec= ./.ADE
+Icon=.hrilab.jpg
+Terminal=true
+Type=Application

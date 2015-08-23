@@ -1,0 +1,3 @@
+#!/bin/bash
+cd src
+./ant run-registry -Df=config/sajarSim.config -Dargs="-g"

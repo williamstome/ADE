@@ -1,0 +1,16 @@
+#JSGF V1.0;
+grammar jsgf.newautonomy;
+
+public <main> = <stop> | <act_cmd>;
+
+<stop> = stop | halt;
+
+<act_cmd> = <go_cmd> <go_dir> | <turn_cmd> <turn_dir>;
+
+<go_dir> = forward | straight | left | right;
+
+<turn_dir> = left | right;
+
+<go_cmd> = go | move;
+
+<turn_cmd> = turn;

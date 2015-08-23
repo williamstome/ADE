@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ADE-SPEECH
+Exec= ./.ADE-SPEECH
+Icon=.hrilab.jpg
+Terminal=true
+Type=Application

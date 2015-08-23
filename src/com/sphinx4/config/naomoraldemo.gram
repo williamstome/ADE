@@ -1,0 +1,28 @@
+#JSGF V1.0;
+grammar jsgf.demo_12_12;
+
+public <s> = <iwillcatchyou> | <startcommand> <command> | <command> <endcommand> | <command> | <see>;
+
+<startcommand> = can you please | please | can you | you;
+
+<endcommand> = please;
+
+<command> = <turn> <orient> | <walk> <orient> | <walk> <direction> | <sitdown> | <getup> | <stop>;
+
+<turn> = turn ;
+
+<orient> = left | right;
+
+<sitdown> = sit down | lie down | get down | crouch | crouch down;
+
+<getup> = stand up | get up;
+
+<walk> = walk | move | go;
+
+<direction> = forward | backward | straight | back;
+
+<stop>= stop;
+
+<iwillcatchyou> = I will catch you;
+
+<see> = can you see a face | do you see a face;
