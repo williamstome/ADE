@@ -13,6 +13,9 @@ status are managed by one or more *Registries*.
 This package provides a demo of a subset of ADE which you can quickly
 try out for yourself! To do so, just double click on "ADE".
 
+## Before you start ##
+Before you start, make sure you set $JAVA_HOME in your shell to the location on your system of the version of java you'd like to use!
+
 ## Demo Walkthrough ##
 
 Examining the ADE file shows that it links to the .ADE shell script, which in turn executes the following command in the src directory:
