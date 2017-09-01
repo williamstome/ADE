@@ -149,7 +149,7 @@ world from a 3D perspective, go to `3D->Create 3D View` To use a
 different map, add to the sim environment's args string `-config
 com/adesim/config/[name-of-map-you-want.xml]` 
 
-### Running a Physical Robot###
+### Running a Physical Robot ###
 If you have an iRobot Create and/or Hokuyo URG LRF, you can start them
 using a similiar process:
 
